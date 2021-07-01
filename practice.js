@@ -75,3 +75,22 @@ var ourObjects = {
 };
 console.log(ourObjects["Versity Name"]);
 console.log(ourObjects["Faculty Name"]);
+
+// lookup objects
+
+function practiceLookup(val)
+{
+    var result="";
+
+    var lookup = {
+        "ava":"adams",
+        "charles":"babege",
+        "eva":"marie",
+        "angela":"white"
+
+    };
+    result = lookup[val];
+
+    return result;
+}
+console.log(practiceLookup("charles"));
