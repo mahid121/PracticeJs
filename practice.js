@@ -56,3 +56,12 @@ console.log(cc("Q"));
 console.log(cc("J"));
 
 //add a cooment
+
+//objects
+
+var myObject = {
+    "name":"Mahid",
+    "surname":"Rahman",
+    "class" :["no class"]
+};
+console.log(myObject.class);
