@@ -74,3 +74,4 @@ var ourObjects = {
     "Faculty Name": "c.s.e"
 };
 console.log(ourObjects["Versity Name"]);
+console.log(ourObjects["Faculty Name"]);
