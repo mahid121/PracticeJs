@@ -57,7 +57,7 @@ console.log(cc("J"));
 
 //add a cooment
 
-//objects
+// accessing objects by dot
 
 var myObject = {
     "name":"Mahid",
@@ -65,3 +65,12 @@ var myObject = {
     "class" :["no class"]
 };
 console.log(myObject.class);
+
+// accessing objects by bracets
+//here properties must have space
+
+var ourObjects = {
+    "Versity Name": "pstu",
+    "Faculty Name": "c.s.e"
+};
+console.log(ourObjects["Versity Name"]);
