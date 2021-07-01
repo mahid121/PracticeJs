@@ -54,3 +54,5 @@ console.log(cc("A"));
 console.log(cc("K"));
 console.log(cc("Q"));
 console.log(cc("J"));
+
+//add a cooment
