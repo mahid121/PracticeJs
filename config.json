@@ -1,0 +1,21 @@
+[ {
+    "MyNmae": "Mahid",
+    "MyAddress": {
+        "House": "27/A",
+        "Road": "19th Link Road",
+        "Area": "Nirjaan R/A",
+        "City": "Khulna"
+    },
+    "ContactNo": "01234"
+},
+ {
+    "MyNmae": "jahid",
+    "MyAddress": {
+        "House": "27/A",
+        "Road": "18th Link Road",
+        "Area": "Nirjaan R/b",
+        "City": "Khulna"
+    },
+    "ContactNo": "012345"
+}
+]
