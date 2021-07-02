@@ -59,3 +59,23 @@ var myPlants = [
     }
 ];
 console.log(myPlants[1].list[2]);
+
+//multyply array with nested array
+
+function Summetion(arr){
+    var sum = 0;
+    for(var i = 0;i<arr.length;i++){
+        for(var j = 0;j<arr[i].length;j++)
+        {
+            sum+=arr[i][j];
+        }
+    }
+    return sum;
+}
+console.log(Summetion([[1,2],[3,4],[5,6,7]]));
+
+//ternary operator
+function Check(a){
+   return a>0 ? "Positive" :a<0 ? "Negative" : "Zero";
+}
+console.log(Check(10));
