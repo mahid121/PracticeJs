@@ -94,3 +94,4 @@ function practiceLookup(val)
     return result;
 }
 console.log(practiceLookup("charles"));
+
